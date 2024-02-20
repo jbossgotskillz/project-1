@@ -565,10 +565,6 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
 
 </body>
 
-    </html>
-
-
-
     .btn-success {
     background-color: maroon;
     border-color: black;
@@ -634,3 +630,8 @@ body {
     background-color:  black;
     color:  white;
 }
+
+    </html>
+
+
+
