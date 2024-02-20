@@ -59,7 +59,7 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
     <!--Summary-->
 
     <div class="container my-4 text-center" id="summary">
-           <img src="css_files/astro_ex_logo.png" alt="astro ex logo">
+           <img src="./css_files/astro_ex_logo.png" alt="astro ex logo">
           <h1>Greetings from Astro Ex!</h1>
     </div>
     
@@ -123,19 +123,19 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="css_files/anubis_orbit.jpg" class="d-block" height=300 alt="anubis 1">
+          <img src="./css_files/anubis_orbit.jpg" class="d-block" height=300 alt="anubis 1">
         </div>
         <div class="carousel-item">
-          <img src="css_files/anubis_landscape.jpg" class="d-block" height=300 alt="anubis 2">
+          <img src="./css_files/anubis_landscape.jpg" class="d-block" height=300 alt="anubis 2">
       </div>
       <div class="carousel-item">
-        <img src="css_files/anubis_landscape2.jpg" class="d-block" height=300 alt="anubis 3">
+        <img src="./css_files/anubis_landscape2.jpg" class="d-block" height=300 alt="anubis 3">
       </div>
       <div class="carousel-item">
-        <img src="css_files/anubis_landscape3.jpg" class="d-block" height=300 alt="anubis 4">
+        <img src="./css_files/anubis_landscape3.jpg" class="d-block" height=300 alt="anubis 4">
       </div>    
       <div class="carousel-item">
-        <img src="css_files/anubis_landscape4.jpg" class="d-block" height=300 alt="anubis 5">
+        <img src="./css_files/anubis_landscape4.jpg" class="d-block" height=300 alt="anubis 5">
       </div>  
     </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#anubis" data-bs-slide="prev">
@@ -166,19 +166,19 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="css_files/bastion_orbit.jpg" class="d-block" height=300 alt="bastion 1">
+        <img src="css_files/./bastion_orbit.jpg" class="d-block" height=300 alt="bastion 1">
       </div>
       <div class="carousel-item">
-        <img src="css_files/bastion_landscape.jpg" class="d-block" height=300 alt="bastion 2">
+        <img src="css_files/./bastion_landscape.jpg" class="d-block" height=300 alt="bastion 2">
         </div>
         <div class="carousel-item ">
-          <img src="css_files/bastion_landscape2.jpg" class="d-block" height=300 alt="bastion 3">
+          <img src="./css_files/bastion_landscape2.jpg" class="d-block" height=300 alt="bastion 3">
         </div>     
         <div class="carousel-item ">
-          <img src="css_files/bastion_landscape3.jpg" class="d-block" height=300 alt="bastion 4">
+          <img src="./css_files/bastion_landscape3.jpg" class="d-block" height=300 alt="bastion 4">
         </div>
         <div class="carousel-item ">
-          <img src="css_files/bastion_landscape4.jpg" class="d-block" height=300 alt="bastion 5">
+          <img src="./css_files/bastion_landscape4.jpg" class="d-block" height=300 alt="bastion 5">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#bastion" data-bs-slide="prev">
@@ -208,16 +208,16 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
           </div>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="css_files/eden_orbit2.jpg" class="d-block" height=300 alt="eden 1">
+              <img src="./css_files/eden_orbit2.jpg" class="d-block" height=300 alt="eden 1">
             </div>
             <div class="carousel-item">
-              <img src="css_files/eden_orbit.jpg" class="d-block" height=300 alt="eden 2">  
+              <img src="./css_files/eden_orbit.jpg" class="d-block" height=300 alt="eden 2">  
             </div>
             <div class="carousel-item">
-              <img src="css_files/eden_landscape.jpg" class="d-block" height=300 alt="eden 3">
+              <img src="./css_files/eden_landscape.jpg" class="d-block" height=300 alt="eden 3">
             </div>
             <div class="carousel-item">
-              <img src="css_files/eden_landscape2.jpg" class="d-block" height=300 alt="eden 4">
+              <img src="./css_files/eden_landscape2.jpg" class="d-block" height=300 alt="eden 4">
             </div>
           </div>
           <button class="carousel-control-prev" type="button" data-bs-target="#eden" data-bs-slide="prev">
@@ -248,16 +248,16 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
           </div>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="css_files/pacifico_orbit.jpg" class="d-block" height=300 alt="pacifico 1">
+              <img src="./css_files/pacifico_orbit.jpg" class="d-block" height=300 alt="pacifico 1">
             </div>
             <div class="carousel-item">
-              <img src="css_files/pacifico_landscape.jpg" class="d-block" height=300 alt="pacifico 2">
+              <img src="./css_files/pacifico_landscape.jpg" class="d-block" height=300 alt="pacifico 2">
             </div>
             <div class="carousel-item">
-              <img src="css_files/pacifico_landscape2.jpg" class="d-block" height=300 alt="pacifico 3">
+              <img src="./css_files/pacifico_landscape2.jpg" class="d-block" height=300 alt="pacifico 3">
             </div>
             <div class="carousel-item">
-              <img src="css_files/pacifico_landscape3.jpg" class="d-block" height=300 alt="pacifico 4">
+              <img src="./css_files/pacifico_landscape3.jpg" class="d-block" height=300 alt="pacifico 4">
             </div>
           </div>
           <button class="carousel-control-prev" type="button" data-bs-target="#pacifico" data-bs-slide="prev">
@@ -288,16 +288,16 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
             </div>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="css_files/surtur_orbit2.jpg" class="d-block" height=300 alt="surtur 1">
+                <img src="./css_files/surtur_orbit2.jpg" class="d-block" height=300 alt="surtur 1">
               </div>
               <div class="carousel-item">
-                <img src="css_files/surtur_landscape.jpg" class="d-block" height=300 alt="surtur 2">
+                <img src="./css_files/surtur_landscape.jpg" class="d-block" height=300 alt="surtur 2">
               </div>
               <div class="carousel-item">
-                <img src="css_files/surtur_landscape2.jpg" class="d-block" height=300 alt="surtur 3">
+                <img src="./css_files/surtur_landscape2.jpg" class="d-block" height=300 alt="surtur 3">
               </div>
               <div class="carousel-item">
-                <img src="css_files/surtur_landscape3.jpg" class="d-block" height=300 alt="surtur 4">
+                <img src="./css_files/surtur_landscape3.jpg" class="d-block" height=300 alt="surtur 4">
               </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#surtur" data-bs-slide="prev">
@@ -328,16 +328,16 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
           </div>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="css_files/tartarus_orbit.jpg" class="d-block" height=300 alt="tartarus 1">
+              <img src="./css_files/tartarus_orbit.jpg" class="d-block" height=300 alt="tartarus 1">
             </div>
             <div class="carousel-item">
-              <img src="css_files/tartarus_landscape.jpg" class="d-block" height=300 alt="tartarus 2">
+              <img src="./css_files/tartarus_landscape.jpg" class="d-block" height=300 alt="tartarus 2">
             </div>
             <div class="carousel-item">
-              <img src="css_files/tartarus_landscape2.jpg" class="d-block" height=300 alt="tartarus 3">
+              <img src="./css_files/tartarus_landscape2.jpg" class="d-block" height=300 alt="tartarus 3">
             </div>
             <div class="carousel-item">
-              <img src="css_files/tartarus_landscape4.jpg" class="d-block" height=300 alt="tartarus 4">
+              <img src="./css_files/tartarus_landscape4.jpg" class="d-block" height=300 alt="tartarus 4">
             </div>
           </div>
           <button class="carousel-control-prev" type="button" data-bs-target="#tartarus" data-bs-slide="prev">
@@ -368,16 +368,16 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
           </div>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="css_files/verdine_orbit.jpg" class="d-block" height=300 alt="verdine 1">
+              <img src="./css_files/verdine_orbit.jpg" class="d-block" height=300 alt="verdine 1">
             </div>
             <div class="carousel-item">
-              <img src="css_files/verdine_orbit2.jpg" class="d-block" height=300 alt="verdine 2">
+              <img src="./css_files/verdine_orbit2.jpg" class="d-block" height=300 alt="verdine 2">
             </div>
             <div class="carousel-item">
-              <img src="css_files/verdine_landscape.jpg" class="d-block" height=300 alt="verdine 3">
+              <img src="./css_files/verdine_landscape.jpg" class="d-block" height=300 alt="verdine 3">
             </div>
             <div class="carousel-item">
-              <img src="css_files/verdine_landscape2.jpg" class="d-block" height=300 alt="verdine 4">
+              <img src="./css_files/verdine_landscape2.jpg" class="d-block" height=300 alt="verdine 4">
             </div>
           </div>
           <button class="carousel-control-prev" type="button" data-bs-target="#verdine" data-bs-slide="prev">
@@ -408,19 +408,19 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
           </div>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="css_files/wonder_orbit.jpg" class="d-block" height=300 alt="wonder 1">
+              <img src="./css_files/wonder_orbit.jpg" class="d-block" height=300 alt="wonder 1">
             </div>
             <div class="carousel-item">
-              <img src="css_files/wonder_landscape.jpg" class="d-block" height=300 alt="wonder 2">
+              <img src="./css_files/wonder_landscape.jpg" class="d-block" height=300 alt="wonder 2">
             </div>
             <div class="carousel-item">
-              <img src="css_files/wonder_landscape2.jpg" class="d-block" height=300 alt="wonder 3">
+              <img src="./css_files/wonder_landscape2.jpg" class="d-block" height=300 alt="wonder 3">
             </div>
             <div class="carousel-item">
-              <img src="css_files/wonder_landscape3.jpg" class="d-block" height=300 alt="wonder 4">
+              <img src="./css_files/wonder_landscape3.jpg" class="d-block" height=300 alt="wonder 4">
             </div>
             <div class="carousel-item">
-              <img src="css_files/wonder_landscape4.jpg" class="d-block" height=300 alt="wonder 5">
+              <img src="./css_files/wonder_landscape4.jpg" class="d-block" height=300 alt="wonder 5">
             </div>
           </div>
           <button class="carousel-control-prev" type="button" data-bs-target="#wonder" data-bs-slide="prev">
