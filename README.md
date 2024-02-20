@@ -123,7 +123,7 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="./css_files/anubis_orbit.jpg" class="d-block" height=300 alt="anubis 1">
+          <img src="[./css_files/anubis_orbit.jpg](https://github.com/jbossgotskillz/project-1/blob/main/anubis_orbit.jpg)" class="d-block" height=300 alt="anubis 1">
         </div>
         <div class="carousel-item">
           <img src="./css_files/anubis_landscape.jpg" class="d-block" height=300 alt="anubis 2">
