@@ -569,3 +569,7 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
 
 
 
+    *I still don't understand why my images and CSS aren't showing up GitHub Pages.  I tried several ideas, but none of them are working, so I just gave up.
+
+
+
