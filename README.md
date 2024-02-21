@@ -59,7 +59,7 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
     <!--Summary-->
 
     <div class="container my-4 text-center" id="summary">
-           <img src="./css_files/astro_ex_logo.png" alt="astro ex logo">
+           <img src="[./css_files/astro_ex_logo.png](https://github.com/jbossgotskillz/project-1/blob/main/astro_ex_logo.png)" alt="astro ex logo">
           <h1>Greetings from Astro Ex!</h1>
     </div>
     
@@ -123,7 +123,7 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="./css_files/anubis_orbit.jpg" class="d-block" height=300 alt="anubis 1">
+          <img src="https://github.com/jbossgotskillz/project-1/blob/main/astro_ex_logo.png" class="d-block" height=300 alt="anubis 1">
         </div>
         <div class="carousel-item">
           <img src="css_files/anubis_landscape.jpg" class="d-block" height=300 alt="anubis 2">
