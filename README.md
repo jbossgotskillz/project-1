@@ -59,7 +59,7 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
     <!--Summary-->
 
     <div class="container my-4 text-center" id="summary">
-           <img src="[./css_files/astro_ex_logo.png](https://github.com/jbossgotskillz/project-1/blob/main/astro_ex_logo.png)" alt="astro ex logo">
+           <img src="./css_files/astro_ex_logo.png" alt="astro ex logo">
           <h1>Greetings from Astro Ex!</h1>
     </div>
     
@@ -123,19 +123,19 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="https://github.com/jbossgotskillz/project-1/blob/main/astro_ex_logo.png" class="d-block" height=300 alt="anubis 1">
+          <img src="./css_files_anubis_landscape.jpg" class="d-block" height=300 alt="anubis 1">
         </div>
         <div class="carousel-item">
-          <img src="css_files/anubis_landscape.jpg" class="d-block" height=300 alt="anubis 2">
+          <img src="./css_files/anubis_landscape.jpg" class="d-block" height=300 alt="anubis 2">
       </div>
       <div class="carousel-item">
-        <img src="css_files/anubis_landscape2.jpg" class="d-block" height=300 alt="anubis 3">
+        <img src="./css_files/anubis_landscape2.jpg" class="d-block" height=300 alt="anubis 3">
       </div>
       <div class="carousel-item">
-        <img src="css_files/anubis_landscape3.jpg" class="d-block" height=300 alt="anubis 4">
+        <img src="./css_files/anubis_landscape3.jpg" class="d-block" height=300 alt="anubis 4">
       </div>    
       <div class="carousel-item">
-        <img src="css_files/anubis_landscape4.jpg" class="d-block" height=300 alt="anubis 5">
+        <img src="./css_files/anubis_landscape4.jpg" class="d-block" height=300 alt="anubis 5">
       </div>  
     </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#anubis" data-bs-slide="prev">
@@ -166,19 +166,19 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="bastion_orbit.jpg" class="d-block" height=300 alt="bastion 1">
+        <img src="./css_files/bastion_orbit.jpg" class="d-block" height=300 alt="bastion 1">
       </div>
       <div class="carousel-item">
-        <img src="bastion_landscape.jpg" class="d-block" height=300 alt="bastion 2">
+        <img src="./css_files/bastion_landscape.jpg" class="d-block" height=300 alt="bastion 2">
         </div>
         <div class="carousel-item ">
-          <img src="bastion_landscape2.jpg" class="d-block" height=300 alt="bastion 3">
+          <img src="./css_files/bastion_landscape2.jpg" class="d-block" height=300 alt="bastion 3">
         </div>     
         <div class="carousel-item ">
-          <img src="bastion_landscape3.jpg" class="d-block" height=300 alt="bastion 4">
+          <img src="./css_files/bastion_landscape3.jpg" class="d-block" height=300 alt="bastion 4">
         </div>
         <div class="carousel-item ">
-          <img src="bastion_landscape4.jpg" class="d-block" height=300 alt="bastion 5">
+          <img src="./css_files/bastion_landscape4.jpg" class="d-block" height=300 alt="bastion 5">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#bastion" data-bs-slide="prev">
