@@ -10,12 +10,6 @@ Technology used:  .html, .css
 
 Ideas for future improvement:  set up navigation paths by using buttons, find an image large enough to cover the background instead of tiling a small image, try out more font variety
 
-
-
-<!doctype html>
-
-    <html lang="en">
-
 <head>
     <title>Space Tour</title>
 
@@ -564,12 +558,6 @@ Ideas for future improvement:  set up navigation paths by using buttons, find an
     <script src="./validate.js"></script>
 
 </body>
-
-    </html>
-
-
-
-    *I still don't understand why my images and CSS aren't showing up GitHub Pages.  I tried several ideas, but none of them are working, so I just gave up.
 
 
 
